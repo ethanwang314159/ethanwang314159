@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ethanwang314159&color=2e933c&style=plastic)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwang314159&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwang314159&theme=dark&layout=compact)
 
 ## I'm
 - learning Godot
