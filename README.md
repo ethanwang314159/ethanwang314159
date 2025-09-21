@@ -5,6 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwang314159&theme=dark&layout=compact)
 
 ## I'm
+- making a calculator in BF
 - learning Godot
 - trying to use Expo for a school project
 - probably on leetcode
