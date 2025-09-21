@@ -4,6 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwang314159&theme=dark&layout=compact)
 
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=20831&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=highcontrast)
+
 ## I'm
 - making a calculator in BF
 - learning Godot
