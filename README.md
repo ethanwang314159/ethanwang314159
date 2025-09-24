@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=20831&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=highcontrast)
 
 ## I'm
-- learning 1 language a day
+- learning 1 esoteric language a day
 - making a calculator in BF
 - learning Godot
 - trying to use Expo for a school project
