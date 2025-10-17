@@ -6,4 +6,4 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=ethanwang314159&theme=tokyonight)  
 ## I'm
-- learning Rust
+- not happy about yearlies (nahhhhhhhhhhhh really)
