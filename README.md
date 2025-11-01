@@ -6,4 +6,5 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=the-ethan-wang&theme=tokyonight)  
 ## I'm
-- not happy about yearlies (nahhhhhhhhhhhh really)
+- happy yearlies are over
+- procrastinating ctech project (sorry sir)
