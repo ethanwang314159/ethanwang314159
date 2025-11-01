@@ -8,3 +8,4 @@
 ## I'm
 - happy yearlies are over
 - procrastinating ctech project (sorry sir)
+- profile viewcount faker than idk what's something fake
