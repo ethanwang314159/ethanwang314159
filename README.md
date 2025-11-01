@@ -9,3 +9,4 @@
 - happy yearlies are over
 - procrastinating ctech project (sorry sir)
 - profile viewcount faker than idk what's something fake
+- ALSO IM GOING TO LEARN RUST AND LOVE2D SOMEDAY OKAY JUST WAIT
